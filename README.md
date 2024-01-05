@@ -2,7 +2,7 @@
 
 ![WGU Header](./wguheader.png)
 
-This is a portfolio of my work in the Master of Science Data Analytics (MSDA) degree program at Western Governors University. My MSDA degree has an anticipated completion date of December 2024. The majority of the coursework in this program builds off of information I learned while completing my Bachelor of Science Management Information Systems (MIS) degree at California State University Sacramento. I decided to further my education in the data field as I am truly passionate about the capabilities of data analysis and wanted to expand my skills using Python, SQL, and Tableau. 
+This is a portfolio of my work in the Master of Science Data Analytics (MSDA) degree program at Western Governors University. My MSDA degree has an anticipated completion date of December 2024. The majority of the coursework in this program builds off of information I learned while completing my Bachelor of Science Management Information Systems (MIS) degree at California State University Sacramento. I decided to further my education in the data field as I am truly passionate about the capabilities of data analysis and wanted to expand my skills using Python, SQL, and Tableau. This portfolio is a work in progress and will be updated as I progress through my educational journey.
 
 ## Classes, Projects, Presentations
 
