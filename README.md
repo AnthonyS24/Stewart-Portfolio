@@ -1,4 +1,4 @@
-# Stewart-Portfolio
+# Stewart-Western Governor University Portfolio
 
 ![WGU Header](./wguheader.png)
 
